@@ -1,12 +1,12 @@
 # UAS-Keamanan-dan-Integritas-Data
 
-Dosen Pengampu Mata Kuliah:
+Dosen Pengampu Mata Kuliah: <br>
 Moh. Khoridatul Huda, S.Pd., M.Si., Ph.D
 ---
-Kelompok 1<br>
-Nagatan Alief Putra Silahen 24031554086
-Muslim Fazlur Rohman 24031554154 
-Muhammad Ramadhan Albaary Putra 24031554161 
+Kelompok 1 <br>
+Nagatan Alief Putra Silahen 24031554086 <br>
+Muslim Fazlur Rohman 24031554154 <br>
+Muhammad Ramadhan Albaary Putra 24031554161 <br>
 Kafka Praya Firmansyah 24031554182
 ---
 Berikut adalah langkah langkah untuk menggunakan api.py, client.py, dan main.py:
