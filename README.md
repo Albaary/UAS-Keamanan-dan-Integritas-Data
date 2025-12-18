@@ -3,7 +3,7 @@
 Dosen Pengampu Mata Kuliah:
 Moh. Khoridatul Huda, S.Pd., M.Si., Ph.D
 ---
-Kelompok 1
+Kelompok 1<br>
 Nagatan Alief Putra Silahen 24031554086
 Muslim Fazlur Rohman 24031554154 
 Muhammad Ramadhan Albaary Putra 24031554161 
